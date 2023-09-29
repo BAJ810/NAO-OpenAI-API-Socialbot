@@ -1,3 +1,4 @@
+#!python2
 import numpi
 import pynaoqi
 import openai
